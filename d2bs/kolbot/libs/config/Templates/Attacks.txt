@@ -153,6 +153,16 @@
 	Config.AttackSkill[4] = 113; // Primary aura to others.
 	Config.AttackSkill[5] = 101; // Secondary skill if monster is immune to primary.
 	Config.AttackSkill[6] = 124; // Secondary aura.
+	
+*** Hammerdin with Smite/Fanaticism on immune (Only 1 point in fanaticism)
+	
+	Config.AttackSkill[0] = -1; // Preattack skill.
+	Config.AttackSkill[1] = 112; // Primary skill to bosses.
+	Config.AttackSkill[2] = 113; // Primary aura to bosses
+	Config.AttackSkill[3] = 112; // Primary skill to others.
+	Config.AttackSkill[4] = 113; // Primary aura to others.
+	Config.AttackSkill[5] = 97; // Secondary skill if monster is immune to primary.
+	Config.AttackSkill[6] = 122; // Secondary aura.
 
 *** Smiter with zeal on non-bosses
 
